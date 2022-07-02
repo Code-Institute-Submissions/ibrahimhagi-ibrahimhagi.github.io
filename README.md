@@ -47,7 +47,7 @@ at Code Institute. There are 3 Html Pages and Css file
 
                     Section 1 - Banner (Navigation Bar, Logo, Heading Text and Booking Button, Booking Form)
                     Section 2 - Review ( some feedbacks from Customer)
-                    Section 3 -A video section that allows the user to
+                    Section 3 -A video section that allows the user to initiate actions such as play,pause, and mute.
                     Section 4 - Footer (contact details and social icons)
                     
     **Explanation About css Used in this page**  
@@ -104,5 +104,6 @@ at Code Institute. There are 3 Html Pages and Css file
 <img width="1440" alt="Screenshot 2022-07-02 at 10 03 18" src="https://user-images.githubusercontent.com/98392097/176992256-cbb368ad-c0fa-4320-a896-4b08bc785dc8.png">
 <img width="1440" alt="Screenshot 2022-07-02 at 10 03 32" src="https://user-images.githubusercontent.com/98392097/176992260-6f8a2987-980d-4cc4-96c3-d260fa28a697.png">
 -------------------------------------------------------------------------------------------------------------------------------
-##  Thank you for reading This 
+
+###  Thank you for reading This!
 
